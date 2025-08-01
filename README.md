@@ -6,7 +6,7 @@ A simple full stack fundraising intern dashboard built as part of Round 1 for th
 
 ## 🔗 Live Demo
 
-🔗 GitHub Repository: [https://github.com/your-username/fundraising-intern-portal](https://github.com/your-username/fundraising-intern-portal)
+🔗 GitHub Repository: [https://github.com/CodeCruncherResham/fundraising-intern-portal](https://github.com/CodeCruncherResham/fundraising-intern-portal)
 
 
 ## 💻 Features
