@@ -72,7 +72,6 @@ node server.js
 
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: Node.js, Express
-* **API Testing**: Postman
 
 ## 👩‍💻 Author
 
