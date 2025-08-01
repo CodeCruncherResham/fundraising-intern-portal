@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Intern Dashboard</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet" />
+</head>
+<body style="  background: linear-gradient(to right, #f8a5c2, #f78fb3);color: #333;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+">
+  <div class="dashboard-container">
+    <header class="dashboard-header">
+      <h1>🎉 Welcome to Your Dashboard</h1>
+    </header>
+
+    <main class="dashboard-main">
+      <div class="info-section">
+        <p><strong>Name:</strong> <span id="name">Loading...</span></p>
+        <p><strong>Referral Code:</strong> <span id="referralCode">Loading...</span></p>
+        <p><strong>Total Donations:</strong> ₹<span id="donations">Loading...</span></p>
+      </div>
+
+      <section class="rewards-section">
+        <h2>🏆 Rewards</h2>
+        <ul class="reward-list">
+          <li>🥉 Bronze – ₹1000+</li>
+          <li>🥈 Silver – ₹3000+</li>
+          <li>🥇 Gold – ₹5000+</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/dashboard.js"></script>
+</body>
+</html>
